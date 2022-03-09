@@ -1,1 +1,1 @@
-# SocialToken
+# Social Money
